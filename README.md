@@ -14,10 +14,6 @@ I'm doing 1 day 1 commit challenge, follow me and see what am I doing haha. 😆
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeeeah&layout=compact&theme=blue-green)](https://github.com/indeeeah/github-readme-stats)
 
-### Watch my contribution graph get eaten by the snake🐍
-
-![snake svg](https://github.com/indeeeah/indeeeah/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **indeeeah/indeeeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
