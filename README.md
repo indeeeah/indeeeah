@@ -6,6 +6,10 @@ Hi there, I'm Kim Soo Min, a passionate backEnd developer from Korea.
 
 You can see my portfolio in [here.](https://indeeeah.github.io/KimSooMin.github.io/)
 
+And also you can see my notion in [here](https://indeeah.notion.site/98aa743cc49f4f3dbf61ef75dec7ec53) too.
+
+I'm doing 1 day 1 commit challenge, follow me and see what am I doing haha. 😆
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indeeeah&theme=blue-green&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeeeah&layout=compact&theme=blue-green)](https://github.com/indeeeah/github-readme-stats)
