@@ -4,7 +4,7 @@
 
 Hi there, I'm Kim Soo Min, a passionate backEnd developer from Korea.
 
-You can see my portfolio in [here.](https://indeeeah.github.io/KimSooMin.github.io/)
+You can see my portfolio in [here.](https://indeeah.notion.site/Resume-932d9372beb64f7c8a9d39ba31825730)
 
 And also you can see my notion in [here](https://indeeah.notion.site/98aa743cc49f4f3dbf61ef75dec7ec53) too.
 
