@@ -14,7 +14,7 @@
 
 #
 
-<h3>🔥 Tech Stack 🔥</h3>
+<h3>🔥 Once I've Used 🔥</h3>
 
 <p><img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle-f1d8d9?style=flat&logo=Oracle&logoColor=F80000"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-lightgrey?style=flat&logo=Spring&logoColor=6DB33F"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-lightgrey?style=flat&logo=C&logoColor=A8B9CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-gray?style=flat&logo=Java&logoColor=F7DF1E"/></p>
 
