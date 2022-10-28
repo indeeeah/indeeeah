@@ -32,7 +32,7 @@
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indeeeah&theme=blue-green&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeeeah&layout=compact&theme=blue-green)](https://github.com/indeeeah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeeeah&langs_count=10&layout=compact&theme=blue-green)](https://github.com/indeeeah/github-readme-stats)
 
 </div>
 
