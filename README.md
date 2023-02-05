@@ -5,12 +5,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Findeeeah&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>Hi there, I'm Kim Soo Min, a passionate backEnd developer from Korea.</p>
-<p>I'm doing 1 day 1 commit challenge, follow me and see what am I doing haha. 😆</p>
 
 #
 <h3>🌷 check my blog 🌷</h3>
 
-<p><a href="https://indeeah.notion.site/98aa743cc49f4f3dbf61ef75dec7ec53" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p><a href="https://indeeah.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
 #
 
