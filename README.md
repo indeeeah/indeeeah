@@ -11,10 +11,6 @@
 
 <p><a href="https://indeeah.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indeeeah&theme=blue-green&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeeeah&langs_count=10&layout=compact&theme=blue-green)](https://github.com/indeeeah/github-readme-stats)
-
 </div>
 
 ![snake gif](https://github.com/indeeeah/indeeeah/blob/output/github-contribution-grid-snake.svg)
