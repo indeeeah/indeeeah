@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Kim%20Soo%20Min,%20a%20passionate%20Backend%20developer%20from%20Korea.&descAlignY=51&descAlign=62"/>
+</p>
+
 <div align="center">
 
 ### Hi there, I'm Kim Soo Min! 👋
@@ -11,9 +15,10 @@
 
 <p><a href="https://indeeah.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
+![snake gif](https://github.com/indeeeah/indeeeah/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
-![snake gif](https://github.com/indeeeah/indeeeah/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **indeeeah/indeeeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
